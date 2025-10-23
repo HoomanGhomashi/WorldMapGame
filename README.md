@@ -36,3 +36,7 @@ Click on the correct country on the map before the timer runs out.
 Earn points for every correct answer!
 
 Try to achieve the highest score possible before time runs out.
+
+This project was developed by Houman and Tefy as part of a web development .  
+http://github.com/Tefy1908/
+
